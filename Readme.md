@@ -3,7 +3,7 @@
 
 * [Employees.cs](./CS/Connecting to Hierarchical Data/Employees.cs) (VB: [Employees.vb](./VB/Connecting to Hierarchical Data/Employees.vb))
 * [MainWindow.xaml](./CS/Connecting to Hierarchical Data/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Connecting to Hierarchical Data/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/Connecting to Hierarchical Data/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/Connecting to Hierarchical Data/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/Connecting to Hierarchical Data/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/Connecting to Hierarchical Data/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to: Bind to Self-Referential Data Structure
 
