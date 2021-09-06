@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connecting to Hierarchical Data", "Connecting to Hierarchical Data\Connecting to Hierarchical Data.csproj", "{CF9DC308-2BAA-4CA6-8C0A-87F53FDE3EAE}"
 EndProject
 Global
