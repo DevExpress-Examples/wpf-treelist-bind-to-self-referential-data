@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bind_to_SelfReferential_Data.Net5", "Bind_to_SelfReferential_Data\Bind_to_SelfReferential_Data.Net5.csproj", "{CF9DC308-2BAA-4CA6-8C0A-87F53FDE3EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF9DC308-2BAA-4CA6-8C0A-87F53FDE3EAE}.Debug|x86.ActiveCfg = Debug|x86
+		{CF9DC308-2BAA-4CA6-8C0A-87F53FDE3EAE}.Debug|x86.Build.0 = Debug|x86
+		{CF9DC308-2BAA-4CA6-8C0A-87F53FDE3EAE}.Release|x86.ActiveCfg = Release|x86
+		{CF9DC308-2BAA-4CA6-8C0A-87F53FDE3EAE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1633CCB6-A0AB-470C-B5B1-C635BBE64794}
+	EndGlobalSection
+EndGlobal

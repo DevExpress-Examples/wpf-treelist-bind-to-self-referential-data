@@ -5,7 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Windows;
 
-namespace Connecting_to_Hierarchical_Data {
+namespace Bind_to_SelfReferential_Data {
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
