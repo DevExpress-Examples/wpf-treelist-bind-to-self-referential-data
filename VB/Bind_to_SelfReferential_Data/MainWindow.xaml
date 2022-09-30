@@ -1,0 +1,22 @@
+<Window x:Class="Bind_to_SelfReferential_Data.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Bind_to_SelfReferential_Data"
+        Title="MainWindow" Height="350" Width="525"
+        xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid">
+    <Grid>
+        <dxg:GridControl x:Name="grid">
+            <dxg:GridControl.Columns>
+                <dxg:GridColumn FieldName="Name" Header="Employee Name"/>
+                <dxg:GridColumn FieldName="Position"/>
+                <dxg:GridColumn FieldName="Department"/>
+            </dxg:GridControl.Columns>
+            <dxg:GridControl.View>
+                <dxg:TreeListView AutoWidth="True"
+                                  KeyFieldName="ID" ParentFieldName="ParentID"
+                                  AutoExpandAllNodes="True"
+                                  TreeDerivationMode="Selfreference"/>
+            </dxg:GridControl.View>
+        </dxg:GridControl>
+    </Grid>
+</Window>
