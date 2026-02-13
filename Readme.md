@@ -35,7 +35,7 @@ Set the [TreeListView.TreeDerivationMode](https://docs.devexpress.com/WPF/DevExp
 * [WPF Tree List - Implement the Child Nodes Path](https://github.com/DevExpress-Examples/how-to-implement-childnodespath-t556239)
 * [WPF Tree List - Use the Hierarchical Data Template to Build a Tree](https://github.com/DevExpress-Examples/how-to-build-a-tree-via-hierarchicaldatatemplate-e3410)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-treelist-bind-to-self-referential-data&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-treelist-bind-to-self-referential-data&~~~was_helpful=no)
 
